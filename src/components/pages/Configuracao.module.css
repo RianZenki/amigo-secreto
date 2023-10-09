@@ -1,0 +1,12 @@
+.configuracao h2 {
+	color: rgba(75, 105, 253, 0.99);
+	font-size: 32px;
+	margin-bottom: 34px;
+	font-weight: 600;
+}
+
+.configuracao ul {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
